@@ -13,9 +13,9 @@
 
 
 // Dimensions of the frame
-length=720;
-width=690;
-hight=180;
+length=660;
+width=1400/2;
+hight=194;
 
 // Material
 // https://www.hornbach.de/shop/Furnierschichtholz-24x40x2400-mm-WoodPro/5506215/artikel.html
