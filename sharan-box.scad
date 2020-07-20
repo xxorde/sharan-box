@@ -6,13 +6,19 @@
     What you need:
     - 2 x this frame
     - 5 x container (Euronorm/Eurobehälter/Kleinladungsträger) 600 mm × 400 mm x 320 mm
+    - 2 - 3 x container 600 mm × 400 mm x 120 mm
     - mattress 200 cm x 140 cm
+    - 1 x VW Sharan II
 */
 
 
+// Dimensions of the frame
 length=720;
 width=690;
 hight=180;
+
+// Material
+// https://www.hornbach.de/shop/Furnierschichtholz-24x40x2400-mm-WoodPro/5506215/artikel.html
 b_width=40;
 b_hight=24;
 
