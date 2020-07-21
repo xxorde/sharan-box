@@ -6,7 +6,7 @@
     What you need:
     - 2 x this frame
     - 5 x container (Euronorm/Eurobehälter/Kleinladungsträger) 600 mm × 400 mm x 320 mm
-    - 2 - 3 x container 600 mm × 400 mm x 120 mm
+    - 2 x container 600 mm × 400 mm x 120 mm
     - mattress 200 cm x 140 cm
     - 1 x VW Sharan II
 */
