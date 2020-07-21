@@ -1,5 +1,8 @@
 # sharan-box
 Frame to convert a VW Sharan II / Seat Alhambra II to a camper.
+
+![Nice picture of the frame](sharan-box1.png)
+![Nice picture of the frame](sharan-box22.png)
  
 ## What you need
 
