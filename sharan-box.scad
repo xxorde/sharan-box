@@ -21,6 +21,10 @@ hight=194;
 // https://www.hornbach.de/shop/Furnierschichtholz-24x40x2400-mm-WoodPro/5506215/artikel.html
 b_width=40;
 b_hight=24;
+// https://www.hornbach.de/shop/Latte-24x48x3000-mm-Fichte-Tanne/1000686/artikel.html
+l_num=4;
+l_width=48;
+l_hight=24;
 
 // Stützen
 module sturdy() {
@@ -99,6 +103,16 @@ translate([length-b_hight,b_hight,hight-b_width]) {
     cube(h_deckenlatte);
 }
 
+for (i = [1:l_num]) {
+    translate([((length/(l_num+1))*i)-l_width/2,b_hight,hight-b_hight]) {
+        // Lattenrost
+        color( "Olive", 0.5 ) {
+            v_deckenlatte=[b_width,width-2*b_hight,b_hight];
+            echo("Lattenrost ",i,v_deckenlatte);
+            cube(v_deckenlatte);
+        }
+    }
+}
 
 // Vorne links
 sturdy();
