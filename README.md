@@ -9,6 +9,6 @@ Frame to convert a VW Sharan II / Seat Alhambra II to a camper.
 - 2 x this frame
 - 5 x container (Euronorm/Eurobehälter/Kleinladungsträger) 600 mm × 400 mm x 320 mm
 - 2 x container 600 mm × 400 mm x 120 mm
-- mattress 200 cm x 140 cm
+- mattress 200 cm x 120 cm
 - 1 x VW Sharan II
 
