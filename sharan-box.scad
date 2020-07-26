@@ -14,7 +14,7 @@
 
 // Dimensions of the frame
 length=660;
-width=1400/2;
+width=1310/2;
 hight=194;
 
 // Material
